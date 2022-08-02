@@ -43,8 +43,6 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
   
 - User  : http://127.0.0.1:8000/dashboard 
  
-### Watch Video
- [![Everything Is AWESOME](https://user-images.githubusercontent.com/36434065/141663839-bb06d652-1be7-4124-b3ba-76e6354bf456.png)](https://www.youtube.com/watch?v=TRr5OQ3YVIE "Watch Video")
 
 
 ## License
