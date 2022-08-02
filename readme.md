@@ -27,7 +27,7 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 -   Composer Version 2 
 ## Installation Steps 
 
-1.  <code> composer create-project rahulvijayam/ecommerce </code>
+1.  <code> composer create-project AHMADAZIEM/ecommerce </code>
 2. Create database for  your project with the name as <code>gainaloe</code>
 3. Now Run <code>php artisan migrate</code> command for creating all the tables 
 4. Add your email credentials in <code>.env</code> file
