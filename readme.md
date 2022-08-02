@@ -35,13 +35,12 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Generate Sample Data ( Optional)
 1. Remove tables(products, users) from the  database.
-2. Run two files present in this link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql on your database
+2. Run two files present in this link https://github.com/AHMADAZIEM/laravel-ecommerce-project-master/tree/main/public/sql on your database
 3. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
 ### Dashboard Details
 - Admin : http://127.0.0.1:8000/admin-dash
-    -   Login Id : rahulvijayanagaram@gmail.com
-    -   Password : 111111111
+  
 - User  : http://127.0.0.1:8000/dashboard 
  
 ### Watch Video
